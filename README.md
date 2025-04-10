@@ -1,4 +1,5 @@
-marketsim
+# marketsim
+
 A C++ stock market simulator
 
 Overview
